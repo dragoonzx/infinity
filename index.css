@@ -1,0 +1,39 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+section, header, footer {
+  padding: 0 15px;
+}
+
+.articles h2 {
+  text-decoration: underline;
+}
+
+blockquote, .content {
+  max-width: 444px;
+}
+
+@media (min-width: 575.98px){
+  section, header, footer {
+    padding: 0 calc(50vw - 270px);
+  }
+}
+
+@media (min-width: 767.98px){
+  section, header, footer {
+    padding: 0 calc(50vw - 360px);
+  }
+}
+
+@media (min-width: 991.98px) {
+  section, header, footer {
+    padding: 0 calc(50vw - 480px);
+  }
+}
+
+@media (min-width: 1199.98px){
+  section, header, footer {
+    padding: 0 calc(50vw - 590px);
+  }
+}
