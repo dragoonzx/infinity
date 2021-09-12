@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Max S]]></title><description><![CDATA[Blog about frontend and other things I love]]></description><link>https://infinity.js.org</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Sep 2021 07:52:15 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Hi, I’m Max S I`m frontend developer or UI engineer, call it what you want, but I’ve been in UI development for most of my last 3-4 years…]]></description><link>https://infinity.js.org/about/</link><guid isPermaLink="false">https://infinity.js.org/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Max S&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Max S]]></title><description><![CDATA[Blog about frontend and other things I love]]></description><link>https://infinity.js.org</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Sep 2021 08:47:52 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Hi, I’m Max S I`m frontend developer or UI engineer, call it what you want, but I’ve been in UI development for most of my last 3-4 years…]]></description><link>https://infinity.js.org/about/</link><guid isPermaLink="false">https://infinity.js.org/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Max S&lt;/h1&gt;
 &lt;p&gt;I`m frontend developer or UI engineer, call it what you want, but I’ve been in UI development for most of my last 3-4 years.&lt;/p&gt;
 &lt;p&gt;Achievements I`m proud of:&lt;/p&gt;
 &lt;ul&gt;
@@ -6,70 +6,6 @@
 &lt;li&gt;Contributions to open-source: parcel, wemake-vue-template&lt;/li&gt;
 &lt;li&gt;Completed the middle-frontend course from Yandex Practicum (official doc!)&lt;/li&gt;
 &lt;li&gt;And other great things which are under the NDA&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project, drop me a line at dragoonz@yandex.ru or fill the form right here]]></description><link>https://infinity.js.org/contact/</link><guid isPermaLink="false">https://infinity.js.org/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
-&lt;p&gt;If you’ve got an inquiry for a job or project, drop me a line at &lt;a href=&quot;mailto:dragoonz@yandex.ru&quot;&gt;dragoonz@yandex.ru&lt;/a&gt; or fill the form right here&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Max S]]></title><description><![CDATA[Hello Ideas Here I share my thoughts about frontend, games and dapps]]></description><link>https://infinity.js.org/</link><guid isPermaLink="false">https://infinity.js.org/</guid><content:encoded>&lt;h1&gt;Hello Ideas&lt;/h1&gt;
-&lt;p&gt;Here I share my thoughts about frontend, games and dapps&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Redux in 2021 or state management done right]]></title><description><![CDATA[aaa Weddings are basically funerals with cake. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like…]]></description><link>https://infinity.js.org/blog/redux-in-2021-or-state-management-done-right/</link><guid isPermaLink="false">https://infinity.js.org/blog/redux-in-2021-or-state-management-done-right/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;aaa Weddings are basically funerals with cake. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. What about the reality where Hitler cured cancer, Morty? The answer is: Don’t think about it. All right, all right, cool it! I see what’s happening here. You’re both young, you’re both unsure about your place in the universe, and you both want to be Grandpa’s favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa’s concerned, you’re both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways.&lt;/p&gt;
-&lt;p&gt;Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. You’re young, you have your whole life ahead of you, and your anal cavity is still taut yet malleable. He’s not a hot girl. He can’t just bail on his life and set up shop in someone else’s. Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAwADAAAAAAAAAAAAAAABEQAhMRBRwf/aAAgBAQABPyEFlyHWxLQsOuBepLQ1ZLx//9oADAMBAAIAAwAAABCAz//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFh/9oACAEDAQE/EGjmacj/xAAXEQEAAwAAAAAAAAAAAAAAAAABEBFB/9oACAECAQE/EBFsg//EABwQAQACAwADAAAAAAAAAAAAAAEAESExQRBxgf/aAAgBAQABPxAtmDTp6Q5uwDd+CWSsrfMqWEUOHzsblplvc//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/infinity/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project, drop me a line at dragoonz@yandex.ru]]></description><link>https://infinity.js.org/contact/</link><guid isPermaLink="false">https://infinity.js.org/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
+&lt;p&gt;If you’ve got an inquiry for a job or project, drop me a line at &lt;a href=&quot;mailto:dragoonz@yandex.ru&quot;&gt;dragoonz@yandex.ru&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Max S]]></title><description><![CDATA[Hello Ideas Here I share my thoughts about frontend, games and dapps]]></description><link>https://infinity.js.org/</link><guid isPermaLink="false">https://infinity.js.org/</guid><content:encoded>&lt;h1&gt;Hello Ideas&lt;/h1&gt;
+&lt;p&gt;Here I share my thoughts about frontend, games and dapps&lt;/p&gt;</content:encoded></item><item><title><![CDATA[State Management in 2021]]></title><description><![CDATA[IN PROGRESS…]]></description><link>https://infinity.js.org/blog/redux-in-2021-or-state-management-done-right/</link><guid isPermaLink="false">https://infinity.js.org/blog/redux-in-2021-or-state-management-done-right/</guid><pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;IN PROGRESS…&lt;/h1&gt;</content:encoded></item></channel></rss>
