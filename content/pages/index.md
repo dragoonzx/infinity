@@ -1,8 +1,8 @@
 ---
 template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: 'Max S'
 ---
 
-#Hello World
+#Hello Ideas
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Here I share my thoughts about frontend, games and dapps

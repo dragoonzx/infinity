@@ -1,12 +1,15 @@
 ---
-title: About Mee
+title: About Me
 template: about-template
 profile_image: /media/profile-image.jpg
 ---
 
-# Hi, I'm John Doe
+# Hi, I'm Max S
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+I`m frontend developer or UI engineer, call it what you want, but I've been in UI development for most of my last 3-4 years.
 
-
+Achievements I`m proud of:
+- Participant & winner of many hackathons
+- Contributions to open-source: parcel, wemake-vue-template
+- Completed the middle-frontend course from Yandex Practicum (official doc!)
+- And other great things which are under the NDA

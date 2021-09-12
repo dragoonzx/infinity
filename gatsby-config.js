@@ -1,28 +1,24 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Max S`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Max S`,
+      summary: `Self-taught front-end web dev. JAMStack. Vue <3`,
     },
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Blog about frontend and other things I love`,
+    siteUrl: `https://infinity.js.org`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `maxi_js`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/dragoonzx',
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com',
-      },
-      {
-        name: 'instagram',
-        url: 'https://instagram.com',
-      },
+        url: 'https://twitter.com/maxi_js',
+      }
     ],
   },
   plugins: [
@@ -151,8 +147,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Frosted Blog`,
-        short_name: `Gatsby Frosted`,
+        name: `Max S Blog`,
+        short_name: `Max S`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
